@@ -57,7 +57,7 @@ Currently working as Principal Architect at [Stayntouch](https://www.stayntouch.
       <img src="https://img.shields.io/badge/CircleCI-22272d?style=for-the-badge&logo=circleci" />
     </td>
     <td>
-       <img src="https://img.shields.io/badge/Jenkins?style=for-the-badge&logo=jenkins" /> 
+       <img src="https://img.shields.io/badge/Jenkins-22272d?style=for-the-badge&logo=jenkins" /> 
     </td>
     <td>
       <img src="https://img.shields.io/badge/Docker-22272d?style=for-the-badge&logo=docker" /> 
